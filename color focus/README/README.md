@@ -20,8 +20,9 @@ MATLAB kullanılarak geliştirilmiştir.
 ## 📊 Örnek Çıktı
 Aşağıda örnek bir çıktı görseli yer almaktadır:
 
-![Örnek Görsel](figures/ornek1_sonuc.png)
+![Örnek Görsel](figures/ornek2_sonuc_1.png)
 
 ## 📜 Lisans
 Bu proje MIT Lisansı altında sunulmaktadır. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
+
 
